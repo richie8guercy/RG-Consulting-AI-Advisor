@@ -1,0 +1,7 @@
+{
+  "name": "RG Consulting AI Advisor",
+  "description": "An intelligent virtual assistant to help entrepreneurs, managers, and consultants structure their projects, implement innovation strategies, and integrate AI into their operations.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
